@@ -1,0 +1,56 @@
+John Smith
+john.smith@email.com | +1 (555) 123-4567 | linkedin.com/in/johnsmith | github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Software Engineer with 5+ years of experience building scalable web applications. Proficient in Python, JavaScript, React, Node.js, and cloud technologies. Led cross-functional teams to deliver high-impact products. Passionate about clean code, system design, and continuous improvement.
+
+EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | Jan 2022 - Present
+- Led development of a microservices architecture serving 2M+ users, improving system reliability by 40%
+- Designed and implemented RESTful APIs using Python and FastAPI, reducing response times by 60%
+- Managed a team of 5 engineers, conducting code reviews and mentoring junior developers
+- Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 75%
+- Optimized PostgreSQL queries resulting in 50% improvement in database performance
+
+Software Engineer | StartupXYZ | Jun 2019 - Dec 2021
+- Built customer-facing dashboard using React, Redux, and TypeScript serving 500K+ monthly users
+- Developed backend services with Node.js and Express, handling 10K+ API requests per minute
+- Implemented automated testing with Jest and Cypress, achieving 90% code coverage
+- Collaborated with product and design teams to launch 3 major features ahead of schedule
+- Reduced cloud infrastructure costs by 30% through AWS optimization
+
+Junior Developer | WebAgency Co. | Aug 2018 - May 2019
+- Developed responsive web applications using HTML, CSS, JavaScript, and React
+- Created RESTful APIs with Python Django framework
+- Managed MySQL and MongoDB databases for client projects
+- Participated in Agile/Scrum ceremonies and sprint planning
+
+EDUCATION
+Bachelor of Science in Computer Science | MIT | 2014 - 2018
+GPA: 3.8/4.0 | Dean's List
+
+SKILLS
+Technical: Python, JavaScript, TypeScript, Java, SQL, HTML, CSS
+Frameworks: React, Node.js, Express, Django, FastAPI, Next.js
+Databases: PostgreSQL, MongoDB, Redis, MySQL, DynamoDB
+Cloud: AWS, Docker, Kubernetes, Jenkins, CI/CD
+Tools: Git, Jira, Confluence, VS Code, Postman
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- Google Cloud Professional Developer
+
+PROJECTS
+Open Source Contribution - React Component Library
+- Created a reusable component library with 50+ components used by 200+ developers
+- Implemented Storybook documentation and automated visual regression testing
+
+AI-Powered Analytics Dashboard
+- Built a machine learning dashboard using Python, TensorFlow, and React
+- Implemented real-time data visualization with D3.js and WebSocket connections
+
+ACHIEVEMENTS
+- Winner of HackTech 2021 - Built an AI-powered accessibility tool
+- Published 3 technical articles on Medium with 10K+ combined views
+- Speaker at ReactConf 2022 on "Scaling React Applications"

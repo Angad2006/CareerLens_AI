@@ -1,0 +1,166 @@
+{
+  "industries": {
+    "technology": {
+      "name": "Technology & Software",
+      "icon": "FiCode",
+      "description": "Software development, engineering, and IT infrastructure",
+      "typical_roles": ["Software Engineer", "Full Stack Developer", "Backend Developer", "Frontend Developer", "DevOps Engineer", "Cloud Architect", "QA Engineer", "Tech Lead", "CTO"],
+      "key_skills": ["Python", "JavaScript", "React", "Node.js", "AWS", "Docker", "Git", "SQL", "REST API", "Agile"],
+      "certifications": ["AWS Certified", "Azure Certified", "Google Cloud Certified", "Kubernetes CKA", "CompTIA A+"],
+      "courses": ["CS50", "Full Stack Web Development", "System Design", "Data Structures & Algorithms"]
+    },
+    "data_science": {
+      "name": "Data Science & Analytics",
+      "icon": "FiBarChart2",
+      "description": "Data analysis, machine learning, and business intelligence",
+      "typical_roles": ["Data Scientist", "Data Analyst", "ML Engineer", "Business Intelligence Analyst", "Data Engineer", "Statistician"],
+      "key_skills": ["Python", "SQL", "Pandas", "scikit-learn", "Tableau", "Statistics", "Machine Learning", "Data Visualization", "R", "Excel"],
+      "certifications": ["Google Data Analytics", "IBM Data Science", "AWS ML Specialty", "Tableau Desktop Certified"],
+      "courses": ["Andrew Ng ML Course", "Statistics for Data Science", "SQL for Data Analysis", "Deep Learning Specialization"]
+    },
+    "ai_ml": {
+      "name": "AI & Machine Learning",
+      "icon": "FiCpu",
+      "description": "Artificial intelligence, deep learning, and NLP",
+      "typical_roles": ["AI Engineer", "ML Engineer", "NLP Engineer", "Computer Vision Engineer", "AI Researcher", "MLOps Engineer"],
+      "key_skills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "NLP", "Computer Vision", "MLOps", "Transformers", "LLM"],
+      "certifications": ["TensorFlow Developer Certificate", "AWS ML Specialty", "Deep Learning.AI"],
+      "courses": ["Deep Learning Specialization", "NLP with Transformers", "GANs Specialization", "MLOps"]
+    },
+    "marketing": {
+      "name": "Marketing & Advertising",
+      "icon": "FiTrendingUp",
+      "description": "Digital marketing, brand management, and advertising",
+      "typical_roles": ["Digital Marketing Manager", "Content Strategist", "SEO Specialist", "Social Media Manager", "Brand Manager", "Growth Hacker", "Marketing Analyst"],
+      "key_skills": ["SEO", "Google Analytics", "Content Marketing", "Social Media", "Email Marketing", "PPC", "A/B Testing", "CRM", "Copywriting"],
+      "certifications": ["Google Analytics", "Google Ads", "HubSpot Inbound", "Facebook Blueprint"],
+      "courses": ["Digital Marketing Fundamentals", "SEO Training", "Content Marketing Strategy"]
+    },
+    "sales": {
+      "name": "Sales & Business Development",
+      "icon": "FiDollarSign",
+      "description": "Sales, account management, and revenue generation",
+      "typical_roles": ["Sales Executive", "Account Manager", "Business Development Manager", "Sales Director", "SDR", "Enterprise Sales"],
+      "key_skills": ["CRM", "Lead Generation", "Negotiation", "Pipeline Management", "Relationship Building", "B2B Sales", "Forecasting", "Cold Calling"],
+      "certifications": ["Salesforce Certified", "HubSpot Sales", "SPIN Selling"],
+      "courses": ["Sales Training", "Negotiation Skills", "Account Management"]
+    },
+    "finance": {
+      "name": "Finance & Banking",
+      "icon": "FiDollarSign",
+      "description": "Financial analysis, banking, and investment management",
+      "typical_roles": ["Financial Analyst", "Investment Banker", "Risk Analyst", "Accountant", "Controller", "CFO", "Auditor", "Portfolio Manager"],
+      "key_skills": ["Financial Modeling", "Excel", "Bloomberg", "Risk Analysis", "GAAP", "Budgeting", "Forecasting", "Valuation", "SQL"],
+      "certifications": ["CFA", "CPA", "FRM", "ACCA"],
+      "courses": ["Financial Modeling", "Investment Banking", "Corporate Finance"]
+    },
+    "healthcare": {
+      "name": "Healthcare & Medicine",
+      "icon": "FiHeart",
+      "description": "Healthcare delivery, medical technology, and health informatics",
+      "typical_roles": ["Healthcare Administrator", "Clinical Data Analyst", "Health Informatics Specialist", "Medical Coder", "Public Health Analyst"],
+      "key_skills": ["HIPAA", "EMR/EHR", "Clinical Research", "Patient Care", "Healthcare Management", "FDA Compliance", "Medical Terminology"],
+      "certifications": ["RHIA", "RHIT", "CPC", "HIPAA Certification"],
+      "courses": ["Health Informatics", "Clinical Research", "Healthcare Management"]
+    },
+    "pharma": {
+      "name": "Pharma & Life Sciences",
+      "icon": "FiActivity",
+      "description": "Pharmaceutical development, clinical trials, and regulatory affairs",
+      "typical_roles": ["Clinical Research Associate", "Regulatory Affairs Specialist", "Quality Assurance Manager", "Drug Safety Associate", "Formulation Scientist"],
+      "key_skills": ["Clinical Trials", "GMP", "FDA", "Pharmacovigilance", "Drug Development", "Regulatory Compliance", "Quality Assurance"],
+      "certifications": ["CCRA", "RAC", "ASQ CQA"],
+      "courses": ["Clinical Trial Management", "GMP Training", "Pharmacology"]
+    },
+    "hr": {
+      "name": "Human Resources",
+      "icon": "FiUsers",
+      "description": "Talent acquisition, employee management, and organizational development",
+      "typical_roles": ["HR Manager", "Recruiter", "HR Business Partner", "Talent Acquisition Specialist", "Learning & Development Manager", "CHRO"],
+      "key_skills": ["Talent Acquisition", "Employee Relations", "HRIS", "Performance Management", "Compensation", "Training", "Labor Law"],
+      "certifications": ["SHRM-CP", "SHRM-SCP", "PHR", "SPHR"],
+      "courses": ["HR Management", "Talent Management", "Employment Law"]
+    },
+    "consulting": {
+      "name": "Management Consulting",
+      "icon": "FiBriefcase",
+      "description": "Strategy consulting, management advisory, and business transformation",
+      "typical_roles": ["Management Consultant", "Strategy Consultant", "Business Analyst", "Associate Consultant", "Engagement Manager", "Partner"],
+      "key_skills": ["Business Strategy", "Data Analysis", "Presentation Skills", "Problem Solving", "Client Management", "Excel", "PowerPoint", "Stakeholder Management"],
+      "certifications": ["PMP", "Lean Six Sigma", "CMC"],
+      "courses": ["Case Interview Prep", "Business Strategy", "Management Consulting"]
+    },
+    "cybersecurity": {
+      "name": "Cybersecurity",
+      "icon": "FiShield",
+      "description": "Information security, threat detection, and network defense",
+      "typical_roles": ["Security Analyst", "Penetration Tester", "SOC Analyst", "CISO", "Security Engineer", "Incident Responder"],
+      "key_skills": ["Penetration Testing", "SIEM", "Incident Response", "Network Security", "Vulnerability Assessment", "Firewalls", "Encryption"],
+      "certifications": ["CISSP", "CEH", "CompTIA Security+", "CISM", "OSCP"],
+      "courses": ["Ethical Hacking", "Network Security", "Incident Response"]
+    },
+    "product_management": {
+      "name": "Product Management",
+      "icon": "FiBox",
+      "description": "Product strategy, roadmapping, and feature development",
+      "typical_roles": ["Product Manager", "Senior PM", "Director of Product", "VP Product", "Product Owner", "APM"],
+      "key_skills": ["Product Roadmap", "User Research", "A/B Testing", "Agile", "Stakeholder Management", "Data Analysis", "PRD", "OKRs"],
+      "certifications": ["Pragmatic Institute", "Product School", "CSPO", "SAFe"],
+      "courses": ["Product Management 101", "Product Analytics", "UX for PMs"]
+    },
+    "ui_ux": {
+      "name": "UI/UX Design",
+      "icon": "FiLayout",
+      "description": "User interface design, user experience research, and interaction design",
+      "typical_roles": ["UX Designer", "UI Designer", "Product Designer", "UX Researcher", "Interaction Designer", "Design Lead"],
+      "key_skills": ["Figma", "User Research", "Wireframing", "Prototyping", "Usability Testing", "Design Systems", "Accessibility", "Responsive Design"],
+      "certifications": ["Google UX Design", "Interaction Design Foundation", "Nielsen Norman Group"],
+      "courses": ["UX Design Fundamentals", "UI Design", "Design Thinking"]
+    },
+    "operations": {
+      "name": "Operations & Supply Chain",
+      "icon": "FiSettings",
+      "description": "Operations management, logistics, and supply chain optimization",
+      "typical_roles": ["Operations Manager", "Supply Chain Manager", "Logistics Coordinator", "Process Engineer", "COO", "Quality Manager"],
+      "key_skills": ["Supply Chain Management", "Process Optimization", "Lean", "Six Sigma", "ERP", "Inventory Management", "Vendor Management"],
+      "certifications": ["CSCP", "CPIM", "Lean Six Sigma", "PMP"],
+      "courses": ["Operations Management", "Supply Chain Analytics", "Lean Six Sigma"]
+    },
+    "customer_support": {
+      "name": "Customer Support",
+      "icon": "FiMessageSquare",
+      "description": "Customer service, technical support, and customer success",
+      "typical_roles": ["Customer Support Rep", "Customer Success Manager", "Technical Support Engineer", "Support Lead", "VP Customer Success"],
+      "key_skills": ["Customer Service", "Troubleshooting", "CRM", "Zendesk", "Communication", "Empathy", "SLA Management", "Knowledge Base"],
+      "certifications": ["ITIL", "HDI", "Salesforce Certified"],
+      "courses": ["Customer Service Excellence", "Technical Support Fundamentals"]
+    },
+    "ecommerce": {
+      "name": "E-commerce",
+      "icon": "FiShoppingCart",
+      "description": "Online retail, marketplace management, and digital commerce",
+      "typical_roles": ["E-commerce Manager", "Marketplace Manager", "Digital Commerce Analyst", "E-commerce Director"],
+      "key_skills": ["Shopify", "WooCommerce", "SEO", "Conversion Optimization", "Digital Marketing", "Inventory Management", "Analytics", "Payment Gateway"],
+      "certifications": ["Google Analytics", "Shopify Partner", "Google Ads"],
+      "courses": ["E-commerce Strategy", "Shopify Development", "Digital Commerce"]
+    },
+    "manufacturing": {
+      "name": "Manufacturing & Engineering",
+      "icon": "FiTool",
+      "description": "Manufacturing processes, quality engineering, and industrial operations",
+      "typical_roles": ["Manufacturing Engineer", "Quality Engineer", "Process Engineer", "Plant Manager", "Industrial Engineer"],
+      "key_skills": ["Lean Manufacturing", "Six Sigma", "AutoCAD", "Quality Control", "Safety Compliance", "ISO 9001", "CNC", "PLC"],
+      "certifications": ["Lean Six Sigma", "PE License", "ASQ CQE", "PMP"],
+      "courses": ["Manufacturing Processes", "Quality Engineering", "Industrial Automation"]
+    },
+    "business_analyst": {
+      "name": "Business Analysis",
+      "icon": "FiPieChart",
+      "description": "Business requirements analysis, process modeling, and systems analysis",
+      "typical_roles": ["Business Analyst", "Systems Analyst", "Requirements Analyst", "Senior BA", "Lead BA"],
+      "key_skills": ["Requirements Gathering", "Process Modeling", "SQL", "Excel", "Stakeholder Management", "BPMN", "User Stories", "Data Analysis", "Jira"],
+      "certifications": ["CBAP", "CCBA", "PMI-PBA", "IIBA"],
+      "courses": ["Business Analysis Fundamentals", "SQL for Analysts", "Process Modeling"]
+    }
+  }
+}

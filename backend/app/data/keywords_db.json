@@ -1,0 +1,112 @@
+{
+  "universal": [
+    "communication", "leadership", "teamwork", "problem solving", "project management",
+    "analytical", "results-driven", "strategic", "proficient", "experienced",
+    "developed", "managed", "led", "implemented", "designed", "created",
+    "optimized", "improved", "increased", "reduced", "achieved", "delivered",
+    "collaborated", "coordinated", "spearheaded", "streamlined", "established",
+    "monitored", "analyzed", "executed", "maintained", "generated"
+  ],
+  "technology": [
+    "software development", "agile", "scrum", "full stack", "backend", "frontend",
+    "API", "microservices", "cloud", "DevOps", "CI/CD", "testing",
+    "scalable", "performance", "architecture", "deployment", "automation",
+    "database", "security", "version control", "code review", "debugging"
+  ],
+  "data_science": [
+    "machine learning", "data analysis", "statistical modeling", "predictive",
+    "visualization", "big data", "ETL", "pipeline", "deep learning", "NLP",
+    "feature engineering", "model training", "A/B testing", "metrics",
+    "dashboard", "insight", "data-driven", "analytics", "reporting"
+  ],
+  "marketing": [
+    "digital marketing", "SEO", "SEM", "content strategy", "brand awareness",
+    "social media", "campaign management", "ROI", "conversion", "engagement",
+    "market research", "competitive analysis", "customer acquisition",
+    "email marketing", "analytics", "growth", "funnel", "audience"
+  ],
+  "sales": [
+    "revenue", "quota", "pipeline", "lead generation", "closing",
+    "relationship management", "account management", "prospecting",
+    "negotiation", "CRM", "B2B", "B2C", "territory", "forecasting",
+    "client retention", "cross-selling", "upselling", "business development"
+  ],
+  "finance": [
+    "financial analysis", "budgeting", "forecasting", "P&L", "compliance",
+    "risk management", "auditing", "reporting", "GAAP", "modeling",
+    "investment", "portfolio", "valuation", "due diligence", "reconciliation",
+    "accounts payable", "accounts receivable", "treasury"
+  ],
+  "healthcare": [
+    "patient care", "clinical", "HIPAA", "compliance", "EMR",
+    "treatment planning", "diagnosis", "healthcare management",
+    "quality improvement", "evidence-based", "protocols", "safety",
+    "regulatory", "accreditation", "patient satisfaction"
+  ],
+  "hr": [
+    "talent acquisition", "recruitment", "onboarding", "employee relations",
+    "performance management", "compensation", "benefits", "HRIS",
+    "training", "development", "diversity", "inclusion", "retention",
+    "workforce planning", "succession planning", "employee engagement"
+  ],
+  "consulting": [
+    "client management", "stakeholder", "deliverables", "strategy",
+    "implementation", "change management", "process improvement",
+    "business case", "ROI", "assessment", "recommendation",
+    "cross-functional", "executive", "advisory"
+  ],
+  "cybersecurity": [
+    "vulnerability", "threat", "incident response", "security operations",
+    "penetration testing", "compliance", "risk assessment", "firewall",
+    "encryption", "access control", "SIEM", "forensics", "audit",
+    "policy", "remediation", "monitoring"
+  ],
+  "product_management": [
+    "product roadmap", "user stories", "sprint planning", "backlog",
+    "stakeholder alignment", "go-to-market", "MVP", "iteration",
+    "customer feedback", "metrics", "OKR", "KPI", "prioritization",
+    "cross-functional", "launch", "feature"
+  ],
+  "operations": [
+    "process optimization", "supply chain", "logistics", "inventory",
+    "vendor management", "quality assurance", "efficiency", "cost reduction",
+    "capacity planning", "workflow", "SOP", "compliance", "procurement",
+    "lean", "continuous improvement"
+  ],
+  "ui_ux": [
+    "user research", "wireframing", "prototyping", "usability testing",
+    "user experience", "user interface", "design system", "accessibility",
+    "responsive design", "interaction design", "visual design",
+    "information architecture", "persona", "journey mapping"
+  ],
+  "ecommerce": [
+    "conversion rate", "customer experience", "checkout optimization",
+    "product catalog", "marketplace", "fulfillment", "inventory",
+    "payment processing", "customer retention", "merchandising",
+    "digital storefront", "order management"
+  ],
+  "manufacturing": [
+    "production planning", "quality control", "lean manufacturing",
+    "six sigma", "safety compliance", "process engineering",
+    "materials management", "equipment maintenance", "ISO",
+    "continuous improvement", "yield optimization"
+  ],
+  "pharma": [
+    "drug development", "clinical trials", "regulatory compliance",
+    "GMP", "quality assurance", "pharmacovigilance", "FDA",
+    "batch processing", "documentation", "validation",
+    "standard operating procedures"
+  ],
+  "customer_support": [
+    "customer satisfaction", "ticket resolution", "SLA",
+    "troubleshooting", "escalation", "knowledge base",
+    "first response time", "NPS", "CSAT", "CRM",
+    "multichannel support", "empathy"
+  ],
+  "ai_ml": [
+    "artificial intelligence", "machine learning", "deep learning",
+    "neural network", "model training", "inference", "deployment",
+    "transformer", "LLM", "computer vision", "reinforcement learning",
+    "generative AI", "fine-tuning", "prompt engineering", "MLOps"
+  ]
+}
